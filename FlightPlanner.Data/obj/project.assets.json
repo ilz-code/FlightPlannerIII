@@ -5819,11 +5819,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ilzep\\source\\FlightPlannerIII\\FlightPlanner.Data\\FlightPlanner.Data.csproj",
+      "projectUniqueName": "C:\\Users\\ilzep\\source\\repos\\FlightPlanner_3\\FlightPlannerIII\\FlightPlanner.Data\\FlightPlanner.Data.csproj",
       "projectName": "FlightPlanner.Data",
-      "projectPath": "C:\\Users\\ilzep\\source\\FlightPlannerIII\\FlightPlanner.Data\\FlightPlanner.Data.csproj",
+      "projectPath": "C:\\Users\\ilzep\\source\\repos\\FlightPlanner_3\\FlightPlannerIII\\FlightPlanner.Data\\FlightPlanner.Data.csproj",
       "packagesPath": "C:\\Users\\ilzep\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ilzep\\source\\FlightPlannerIII\\FlightPlanner.Data\\obj\\",
+      "outputPath": "C:\\Users\\ilzep\\source\\repos\\FlightPlanner_3\\FlightPlannerIII\\FlightPlanner.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ilzep\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5840,8 +5840,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\ilzep\\source\\FlightPlannerIII\\FlightPlanner.Core\\FlightPlanner.Core.csproj": {
-              "projectPath": "C:\\Users\\ilzep\\source\\FlightPlannerIII\\FlightPlanner.Core\\FlightPlanner.Core.csproj"
+            "C:\\Users\\ilzep\\source\\repos\\FlightPlanner_3\\FlightPlannerIII\\FlightPlanner.Core\\FlightPlanner.Core.csproj": {
+              "projectPath": "C:\\Users\\ilzep\\source\\repos\\FlightPlanner_3\\FlightPlannerIII\\FlightPlanner.Core\\FlightPlanner.Core.csproj"
             }
           }
         }

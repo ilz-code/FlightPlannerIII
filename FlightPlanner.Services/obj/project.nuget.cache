@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ljtDRpJptxNeEwmnldeRe7HJK56A0/V3l4O2qOjnTKlCvc0357T749Vp5zGpSuf0RE2WFGb1clHOZPR5rB/7Xw==",
+  "dgSpecHash": "p73u9n9dHGtDIsW43c/Ftd1dQCXQKVtyXcG2f1ePKzKY7WDFO9sBqEpUtPEL/vO0wVSSWuWv5xIAfsgACHE+KA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ilzep\\source\\FlightPlannerIII\\FlightPlanner.Services\\FlightPlanner.Services.csproj",
+  "projectFilePath": "C:\\Users\\ilzep\\source\\repos\\FlightPlanner_3\\FlightPlannerIII\\FlightPlanner.Services\\FlightPlanner.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ilzep\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ilzep\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

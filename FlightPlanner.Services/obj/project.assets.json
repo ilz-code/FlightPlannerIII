@@ -5742,11 +5742,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ilzep\\source\\FlightPlannerIII\\FlightPlanner.Services\\FlightPlanner.Services.csproj",
+      "projectUniqueName": "C:\\Users\\ilzep\\source\\repos\\FlightPlanner_3\\FlightPlannerIII\\FlightPlanner.Services\\FlightPlanner.Services.csproj",
       "projectName": "FlightPlanner.Services",
-      "projectPath": "C:\\Users\\ilzep\\source\\FlightPlannerIII\\FlightPlanner.Services\\FlightPlanner.Services.csproj",
+      "projectPath": "C:\\Users\\ilzep\\source\\repos\\FlightPlanner_3\\FlightPlannerIII\\FlightPlanner.Services\\FlightPlanner.Services.csproj",
       "packagesPath": "C:\\Users\\ilzep\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ilzep\\source\\FlightPlannerIII\\FlightPlanner.Services\\obj\\",
+      "outputPath": "C:\\Users\\ilzep\\source\\repos\\FlightPlanner_3\\FlightPlannerIII\\FlightPlanner.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ilzep\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5763,11 +5763,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\ilzep\\source\\FlightPlannerIII\\FlightPlanner.Core\\FlightPlanner.Core.csproj": {
-              "projectPath": "C:\\Users\\ilzep\\source\\FlightPlannerIII\\FlightPlanner.Core\\FlightPlanner.Core.csproj"
+            "C:\\Users\\ilzep\\source\\repos\\FlightPlanner_3\\FlightPlannerIII\\FlightPlanner.Core\\FlightPlanner.Core.csproj": {
+              "projectPath": "C:\\Users\\ilzep\\source\\repos\\FlightPlanner_3\\FlightPlannerIII\\FlightPlanner.Core\\FlightPlanner.Core.csproj"
             },
-            "C:\\Users\\ilzep\\source\\FlightPlannerIII\\FlightPlanner.Data\\FlightPlanner.Data.csproj": {
-              "projectPath": "C:\\Users\\ilzep\\source\\FlightPlannerIII\\FlightPlanner.Data\\FlightPlanner.Data.csproj"
+            "C:\\Users\\ilzep\\source\\repos\\FlightPlanner_3\\FlightPlannerIII\\FlightPlanner.Data\\FlightPlanner.Data.csproj": {
+              "projectPath": "C:\\Users\\ilzep\\source\\repos\\FlightPlanner_3\\FlightPlannerIII\\FlightPlanner.Data\\FlightPlanner.Data.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O4w5kn8z6jzW5qPjyDNuVai0YnfJS9TzT4stlRYKXwVoWPNp72FbpynRAxWs0SbG5gKzVezKeYO9zRQvr1anSw==",
+  "dgSpecHash": "iHPvpWL1NzXtGP79ZFgJu9LxVemhLxSiDSWv1l7+WY+GG07OzbldaziWOJQm/+vIVdAV1R6AyZZ6LZYlLcnwEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ilzep\\source\\FlightPlannerIII\\FlightPlanner.Core\\FlightPlanner.Core.csproj",
+  "projectFilePath": "C:\\Users\\ilzep\\source\\repos\\FlightPlanner_3\\FlightPlannerIII\\FlightPlanner.Core\\FlightPlanner.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

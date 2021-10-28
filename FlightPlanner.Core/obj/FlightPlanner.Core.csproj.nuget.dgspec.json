@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ilzep\\source\\FlightPlannerIII\\FlightPlanner.Core\\FlightPlanner.Core.csproj": {}
+    "C:\\Users\\ilzep\\source\\repos\\FlightPlanner_3\\FlightPlannerIII\\FlightPlanner.Core\\FlightPlanner.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ilzep\\source\\FlightPlannerIII\\FlightPlanner.Core\\FlightPlanner.Core.csproj": {
+    "C:\\Users\\ilzep\\source\\repos\\FlightPlanner_3\\FlightPlannerIII\\FlightPlanner.Core\\FlightPlanner.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ilzep\\source\\FlightPlannerIII\\FlightPlanner.Core\\FlightPlanner.Core.csproj",
+        "projectUniqueName": "C:\\Users\\ilzep\\source\\repos\\FlightPlanner_3\\FlightPlannerIII\\FlightPlanner.Core\\FlightPlanner.Core.csproj",
         "projectName": "FlightPlanner.Core",
-        "projectPath": "C:\\Users\\ilzep\\source\\FlightPlannerIII\\FlightPlanner.Core\\FlightPlanner.Core.csproj",
+        "projectPath": "C:\\Users\\ilzep\\source\\repos\\FlightPlanner_3\\FlightPlannerIII\\FlightPlanner.Core\\FlightPlanner.Core.csproj",
         "packagesPath": "C:\\Users\\ilzep\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ilzep\\source\\FlightPlannerIII\\FlightPlanner.Core\\obj\\",
+        "outputPath": "C:\\Users\\ilzep\\source\\repos\\FlightPlanner_3\\FlightPlannerIII\\FlightPlanner.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ilzep\\AppData\\Roaming\\NuGet\\NuGet.Config",
